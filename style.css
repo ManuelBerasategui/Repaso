@@ -81,7 +81,10 @@ a{
     display: inline-block;
     position: relative;
     top: -15px;
-    margin-left: 10px;
+    margin-left: 180px;
+    text-decoration: none;
+    background-color: transparent;
+    
     
 
 }
@@ -190,4 +193,20 @@ a{
     left: 825px;
     top: -435px;
     max-width: 250px;
+}
+
+.started1{
+    width: 120px;
+    height: 35px;
+    background-color: transparent;
+    text-decoration: none;
+    border-color:rgb(40, 124, 233);
+    border-style: solid;
+    color: rgb(40, 124, 233);
+    font-family: 'Roboto';
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    
+    
+    
 }
